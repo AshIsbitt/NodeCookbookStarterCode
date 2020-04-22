@@ -7,10 +7,11 @@ The purpose of this repo is to be a basic installation of NGINX within a chef re
 - Git
 - Vagrant
 - Chef
-- AWS
+- AWS CLI v2
 
 ## Installation
 
+To download this repo, run `git clone git@github.com:AshIsbitt/NodeCookbookStarterCode.git`
 
 ## Chef
 
