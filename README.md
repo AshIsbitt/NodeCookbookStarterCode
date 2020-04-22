@@ -1,6 +1,6 @@
 # NGINX Cookbook Starter Code
 
-The purpose of this repo is to be a basic installation of NGINX within a chef recipe, with all tests passing and preparred for installation to AWS.
+The purpose of this repo is to be a basic installation of NGINX within a *Chef* recipe, with all tests passing and preparred for installation to AWS.
 
 ## Prerequisites
 
